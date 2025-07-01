@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Hostel Management System
 
 A comprehensive hostel management system built with Python and CustomTkinter, featuring user authentication, room management, maintenance requests, and more.
